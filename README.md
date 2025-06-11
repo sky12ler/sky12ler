@@ -93,6 +93,6 @@ Passionate about building scalable cloud solutions and AI-powered applications. 
 - 📧 **Email:** [cziwei0112@gmail.com](mailto:cziwei0112@gmail.com)
 - 📞 **Phone:** +(60) 18 328 4691
 
-[![Resume](https://img.shields.io/badge/📄_Download_Resume-4285F4?style=for-the-badge)](https://github.com/sky12ler/sky12ler/blob/main/Hii_Zi_Wei.pdf)
+[![Resume](https://img.shields.io/badge/📄_Download_Resume-4285F4?style=for-the-badge)](https://github.com/sky12ler/sky12ler/blob/main/Hii%20Zi%20Wei.pdf)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=sky12ler.sky12ler)
