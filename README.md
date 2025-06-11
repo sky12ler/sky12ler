@@ -131,7 +131,3 @@ Passionate about building scalable cloud solutions and AI-powered applications. 
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=sky12ler.sky12ler)
 
-<!-- Snake Game Contribution Grid -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sky12ler/sky12ler/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
