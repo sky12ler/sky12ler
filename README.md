@@ -18,7 +18,7 @@
 ## 🚀 About Me
 
 **Computer Science Student @ UTAR** (CGPA: 3.98) | **AWS Certified** | **Multi-Award Winning Hackathon Leader**  
-Passionate about building scalable cloud solutions and AI-powered applications. Currently seeking internship opportunities in **DevOps/Cloud Engineering, Data Engineering, or Software Development**.
+Passionate about building scalable cloud solutions and AI-powered applications. Currently seeking internship opportunities in **DevOps/Cloud Engineering, Business Analyst, AI, Data Engineering, or Web/Software Development**.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=🔭+Working+On:+SignifyAI+-+Real-time+sign+language+recognition;🌱+Learning:+Advanced+AWS+Services,+Edge+Computing;⚡+Fun+Fact:+Built+RM500+edge-computing+for+rural+clinics" alt="Status Animation" />
@@ -83,7 +83,7 @@ Passionate about building scalable cloud solutions and AI-powered applications. 
 > - <2s latency edge computing solution (<RM500 hardware)
 > - Multilingual Tkinter UI with accessibility features
 
-### [GiftOS E-Commerce](https://github.com/sky12ler/GiftOS) (AWS Cloud)
+### [GiftOS E-Commerce](https://github.com/sky12ler/-AWS-Project-Giftos-E-commerce-Platform) (AWS Cloud)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E) ![Lambda](https://img.shields.io/badge/-Lambda-FF9900) ![WAF](https://img.shields.io/badge/-WAF-FF9900)
 > - Reduced EC2 costs by 40% with Lambda APIs
 > - Blocked 100+ bot attacks/day with WAF/Shield
@@ -92,13 +92,13 @@ Passionate about building scalable cloud solutions and AI-powered applications. 
 <details>
 <summary>📂 View All Projects</summary>
 
-### [Java Stock Management System](https://github.com/sky12ler/Stock-Management-System)
+### [Java Stock Management System](https://github.com/sky12ler/GUI-SMS)
 ![Java](https://img.shields.io/badge/-Java-007396) ![JavaFX](https://img.shields.io/badge/-JavaFX-007396) ![MSAccess](https://img.shields.io/badge/-MS_Access-A4373A)
 > - JDBC integration with MS Access
 > - Role-based access control system
 > - Inventory tracking with timestamp logging
 
-### [Automated Leave System](https://github.com/sky12ler/Automated-Leave-System)
+### [Automated Leave System](https://github.com/sky12ler/LeaveApplicationSystem)
 ![GAS](https://img.shields.io/badge/-Google_Apps_Script-4285F4) ![AppSheet](https://img.shields.io/badge/-AppSheet-4285F4)
 > - Google Calendar API integration
 > - Real-time leave balance tracking
