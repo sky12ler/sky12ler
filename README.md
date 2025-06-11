@@ -67,7 +67,7 @@
 <div align="center">
 
 [![SignifyAI](https://github-readme-stats.vercel.app/api/pin/?username=sky12ler&repo=SignifyAI&theme=radical&show_owner=true)](https://github.com/sky12ler/SignifyAI)
-[![GiftOS](https://github-readme-stats.vercel.app/api/pin/?username=sky12ler&repo=GiftOS&theme=radical&show_owner=true)](https://github.com/sky12ler/GiftOS)
+[![GiftOS](https://github-readme-stats.vercel.app/api/pin/?username=sky12ler&repo=GiftOS&theme=radical&show_owner=true)]([https://github.com/sky12ler/GiftOS](https://github.com/sky12ler/-AWS-Project-Giftos-E-commerce-Platform))
 
 </div>
 
